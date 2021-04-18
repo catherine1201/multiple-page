@@ -1,0 +1,25 @@
+body {
+  background: rgba(223, 213, 213, 0.486);
+
+  text-align: center;
+  margin: 0px;
+}
+
+img {
+  border-radius: 10px;
+}
+
+#headline {
+  font-size: 50px;
+}
+
+#contact {
+  padding-top: 5px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  background-color: yellow;
+}
+
+#email {
+  font-size: 20px;
+}
